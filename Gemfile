@@ -36,3 +36,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+# To install Rails Guides Documentation. Still don't know if this is the right place to put for only development environtment. (???)
+gem 'RedCloth'
